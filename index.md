@@ -1,5 +1,5 @@
 ---
-layout: site
+layout: site.html
 ---
 # Evi's Website
 Welcome to my github pages website.
