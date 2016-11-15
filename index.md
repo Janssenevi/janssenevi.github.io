@@ -1,7 +1,6 @@
 ---
 ---
-
-![alt text](/images/CV_Evi_Janssen.pdf)
+[alt text](/images/CV_Evi_Janssen.pdf)
 
 
 
