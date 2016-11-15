@@ -8,4 +8,5 @@ Using Markdown!
 
 [Vind hier mijn cv] (cv.md)
 
+[Vind hier mijn blog] 
 
