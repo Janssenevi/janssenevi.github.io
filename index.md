@@ -8,5 +8,5 @@ Using Markdown!
 
 [Vind hier mijn cv] (cv.md)
 
-[Vind hier mijn blog] (blog 2016-11-15)
+[Vind hier mijn blog] (blog-2016-11-15)
 
